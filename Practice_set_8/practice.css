@@ -1,0 +1,16 @@
+.loader{
+    position: relative;
+    top: 100px;
+    left: 200px;
+    height: 150px;
+    width: 150px;
+    border: 20px solid #ffe66d;
+    border-top: 20px solid #4ecdc4;
+    border-radius: 50%;
+    animation: rotateLoader 3s ease-out infinite normal;
+}
+
+@keyframes rotateLoader{
+    from{transform : rotate(0deg);}
+    to{transform: rotate(360deg);}
+}

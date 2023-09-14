@@ -1,0 +1,30 @@
+p{
+    text-align: start;
+}
+
+#h1{
+    font-weight: normal;
+}
+
+#h2{
+    font-weight: bold;
+}
+
+#h3{
+    font-weight: bolder;
+}
+
+#h4{
+    font-weight: lighter;
+}
+
+#one{
+    font-size: 60px;
+}
+
+#two{
+    font-size: 40px;
+}
+#three{
+    font-size: 10px;
+}
